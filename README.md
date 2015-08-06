@@ -1,3 +1,5 @@
+# Read about this here https://github.com/h5bp/lazyweb-requests/issues/186
+
 ### Preface 
 I recently started using Google Tag manager and liked the way I could setup little snippets of code to run on certain pages. You can trigger these snippets to either run on all pages or on certain pages based on what was in the URL.
 
