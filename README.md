@@ -40,8 +40,7 @@ I chucked something together to give a rough idea of what I envision for the GUI
 
 http://codepen.io/AaronLayton/pen/waNPXJ
 
-<img width="562" alt="wpt" src="https://cloud.githubusercontent.com/assets/694964/9101031/a2e8f78a-3bd9-11e5-8849-e40647405db1.PNG">
-
+<img width="593" alt="wpt2" src="https://cloud.githubusercontent.com/assets/694964/9101160/37a38cfe-3bdb-11e5-9ae3-8f0073b9e5f7.PNG">
 
 #### Moving forward
 Lets discuss!!
